@@ -1,0 +1,17 @@
+[package]
+
+name = "webcrawler"
+
+version = "0.1.0"
+
+authors = ["Lodewijk Antonides"]
+
+edition = "2018"
+
+
+
+[dependencies]
+
+reqwest = "0.9.9"
+kuchiki = "0.7.2"
+recaptcha = "0.3.1"
